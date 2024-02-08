@@ -1,0 +1,27 @@
+HOMEWORK
+KONU:
+Siber dünyada, her dosya kendi verilerini taşır. Bir dosya, bilgisayarlar arasında yolculuk ederken birçok farklı özellik ve risk taşır. Bu özellikler ve riskler, dosyanın güvenlik seviyesini belirlemekte önemli rol oynar.
+Ben de bu siber dünyadaki dosyaların güvenlik seviyelerini belirlemek için bir sistem geliştirdim. Bu sistem, dosyaların taşıdığı riskleri ve indirme kaynaklarını değerlendirerek, onların güvenlik seviyelerini belirlemeye çalışmaktadır.
+HEDEF:
+Dosyanın güvenlik seviyesini belirleme sürecinde, dosyanın taşıdığı risk düzeyini ve dosyanın indirildiği kaynağın güvenilirliğini göz önünde bulundurdum. Örneğin, bazı dosyalar düşük risk taşırken ve güvenilir kaynaklardan indirilmişken, bu dosyaların güvenlik seviyeleri daha yüksek olabilir.
+
+Model, farklı dosya özellikleri ve indirme kaynakları üzerinde test edilmiş ve her kombinasyon için dosyanın güvenlik seviyesi hesaplanmıştır. Grafikler, dosya özelliklerinin ve indirme kaynağının üyelik fonksiyonlarını ve bu faktörlerin güvenlik seviyesine olan etkisini görselleştirir.
+
+Sistemim, dosyaların özellikleri ve indirme kaynakları arasındaki ilişkileri kurallarla belirleyerek, bir dosyanın güvenlik seviyesini hesaplıyor. Yani, bir dosyanın güvenliğini belirlemek için belirli kriterler ve kurallar kullanıyor.
+ 
+Bu süreci görselleştirirken, bir dosyanın taşıdığı risk düzeyini ve indirme kaynağının güvenliğini grafiklerle ifade edebiliriz. Bu grafikler, bir dosyanın siber dünyadaki güvenlik seviyesini ve hangi özellikleri taşıdığını daha açık bir şekilde gösteriyor.
+
+ÇIKARIM:
+Bu özelliklerle dosyanın güvenlik seviyesini hesapladığımızda, elde ettiğim sonuç %65.582 çıktı. Yani, bu dosya orta seviyede bir güvenlik düzeyine sahip gibi görünüyor.
+
+Sonuç olarak, bu sistem dosyaların siber dünyadaki güvenlik seviyelerini değerlendirirken, bu dosyaların özellikleri ve taşıdıkları riskler arasındaki ilişkileri anlamak için bulanık mantık sistemlerini kullanıyor. 
+
+Bu model, gerçek dünyadaki karmaşıklıkları ele alarak dosyaların güvenlik seviyesini değerlendirmekte ve belirsizlikleri daha iyi anlamamıza yardımcı olmaktadır.
+
+KAYNAKÇA:
+https://www.av-test.org 
+Fuzzy Logic with Engineering Applications, Timothy J. Ross.
+https://codeocean.com
+ 
+
+
